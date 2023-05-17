@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-redis/redis/v8"
 
-	"github.com/hibiken/asynq"
+	"github.com/ShawnHsiung/asynq"
 )
 
 // ****************************************************************************
@@ -119,5 +119,4 @@ func parseRedisInfo(infoStr string) map[string]string {
 		}
 	}
 	return info
-
 }
