@@ -3,8 +3,8 @@ module github.com/ShawnHsiung/asynqmon
 go 1.18
 
 require (
-	github.com/ShawnHsiung/asynq v0.0.0-20230517085750-f206d2f803b9
-	github.com/ShawnHsiung/asynq/x v0.0.0-20230517085750-f206d2f803b9
+	github.com/ShawnHsiung/asynq v0.0.0-20230517121841-62ce2206adf5
+	github.com/ShawnHsiung/asynq/x v0.0.0-20230517121841-62ce2206adf5
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/google/go-cmp v0.5.9
 	github.com/gorilla/mux v1.8.0
@@ -22,7 +22,6 @@ require (
 	github.com/prometheus/client_model v0.4.0 // indirect
 	github.com/prometheus/common v0.43.0 // indirect
 	github.com/prometheus/procfs v0.9.0 // indirect
-	github.com/redis/go-redis/v9 v9.0.4 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	golang.org/x/sys v0.8.0 // indirect
